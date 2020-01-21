@@ -1,0 +1,2 @@
+# R5T.Bulgaria.UserProfileDirectory
+The standard aggregation library of a user profile directory-based implementation of the IDropboxDirectoryPathProvider service for the Bulgaria project.
