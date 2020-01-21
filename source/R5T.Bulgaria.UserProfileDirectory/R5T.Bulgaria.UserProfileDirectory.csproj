@@ -4,4 +4,10 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Bulgaria.Visigothia\source\R5T.Bulgaria.Visigothia\R5T.Bulgaria.Visigothia.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Lombardy.Standard\source\R5T.Lombardy.Standard\R5T.Lombardy.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Peristeria.Standard\source\R5T.Peristeria.Standard\R5T.Peristeria.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Visigothia.Standard\source\R5T.Visigothia.Standard\R5T.Visigothia.Standard.csproj" />
+  </ItemGroup>
 </Project>
