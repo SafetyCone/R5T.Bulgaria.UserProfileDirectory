@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Visigothia.Local.Standa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Visigothia.Local.Default", "..\..\R5T.Visigothia.Local.Default\source\R5T.Visigothia.Local.Default\R5T.Visigothia.Local.Default.csproj", "{ACDCDA98-8056-4751-98D8-9C5FC4A80637}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Dacia.Extensions", "..\..\R5T.Dacia.Extensions\source\R5T.Dacia.Extensions\R5T.Dacia.Extensions.csproj", "{607DFCFC-77DD-48E4-8B14-CB982F4A8703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -295,6 +297,18 @@ Global
 		{ACDCDA98-8056-4751-98D8-9C5FC4A80637}.Release|x64.Build.0 = Release|Any CPU
 		{ACDCDA98-8056-4751-98D8-9C5FC4A80637}.Release|x86.ActiveCfg = Release|Any CPU
 		{ACDCDA98-8056-4751-98D8-9C5FC4A80637}.Release|x86.Build.0 = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|x64.Build.0 = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Debug|x86.Build.0 = Debug|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|x64.ActiveCfg = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|x64.Build.0 = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|x86.ActiveCfg = Release|Any CPU
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -317,6 +331,7 @@ Global
 		{7F0D662D-64A0-441B-B365-E66BAC86C38B} = {EF63C3A4-EC84-41A4-8FE7-2B2F5D63C545}
 		{84CE5DB7-5775-47B8-B632-19FDD6BBD2DC} = {EF63C3A4-EC84-41A4-8FE7-2B2F5D63C545}
 		{ACDCDA98-8056-4751-98D8-9C5FC4A80637} = {EF63C3A4-EC84-41A4-8FE7-2B2F5D63C545}
+		{607DFCFC-77DD-48E4-8B14-CB982F4A8703} = {EF63C3A4-EC84-41A4-8FE7-2B2F5D63C545}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6A0A6B5B-E1D3-4336-BBC2-CDDD1F555796}
